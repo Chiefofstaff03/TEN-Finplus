@@ -38,7 +38,8 @@
     border: none;
     outline: none;
     font-size: 14px;
-    background-color: #888888;
+    background-color: white;
+    color:black;
   }
   
 .contact-form select:invalid {
