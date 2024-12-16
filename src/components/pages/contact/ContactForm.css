@@ -47,7 +47,8 @@
 }
 
 .contact-form select {
-  color: white; 
+  background-color: white;
+    color:black;
 }
 
 
