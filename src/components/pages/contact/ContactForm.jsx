@@ -21,7 +21,7 @@ const ContactForm = () => {
     event.preventDefault();
 
     // Add the required access key.
-    const payload = { ...formData, access_key: "4cf49b0d-2eaf-4235-8052-08089d57e7e9" };
+    const payload = { ...formData, access_key: "f4a1814b-741b-4320-996e-6cc50d711831" };
 
     try {
       const response = await fetch("https://api.web3forms.com/submit", {
