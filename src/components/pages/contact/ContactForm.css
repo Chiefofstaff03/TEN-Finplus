@@ -41,7 +41,11 @@
     background-color: white;
     color:black;
   }
-  
+  .contact-form input::placeholder,
+.contact-form select::placeholder,
+.contact-form textarea::placeholder {
+  color: black;
+}
 .contact-form select:invalid {
   color: black; 
 }
